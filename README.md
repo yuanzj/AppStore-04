@@ -15,9 +15,9 @@ https://github.com/yuanzj/AppStore-04
 #### 深色模式
 ##### 颜色适配
 SwiftUI内置的Color对象在light和dark下会自动变色
-![系统颜色](🏞️%20前端技术/iOS/SwiftUI/AppearanceSet/image1.png)
+![系统颜色](image1.png)
 自定义颜色可以在Xcode中进行设置
-![自定义颜色](🏞️%20前端技术/iOS/SwiftUI/AppearanceSet/image2.png)
+![自定义颜色](image2.png)
 
 ##### 模式切换
 ```swift
